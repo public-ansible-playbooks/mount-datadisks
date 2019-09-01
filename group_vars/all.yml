@@ -1,0 +1,4 @@
+---
+mount_points:
+  - "/data1"
+  - "/data2"
